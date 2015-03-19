@@ -3,7 +3,19 @@ This is the place where you can add your feedback and issues on Survey123.
 
 You will not find source code in here for now. Simply go to the issues section and contribute there.
 
-Latest Version (27-02-2015)
+Latest Version (19-03-2015)
+
+Survey123 (Build 1.0.52)
+Survey123 Connect (Build 1.0.41)
+
+- Small icons on Android are now resizing correctly
+- Image fields are honoring relevant constraints as expected
+- Text color legibility issue on Android fixed
+ 
+
+___________________________________________________________________________________________________________________
+
+Older Version (27-02-2015)
 
 Survey123 (Build 0.0.42)
 
