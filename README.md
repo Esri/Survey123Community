@@ -5,7 +5,7 @@ You will not find source code in here for now. Simply go to the issues section a
 
 Latest Version (19-03-2015)
 
-Survey123 (Build 1.0.52)
+Survey123 (Build 1.0.52)  
 Survey123 Connect (Build 1.0.41)
 
 - Small icons on Android are now resizing correctly
