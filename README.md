@@ -17,10 +17,10 @@ Survey123 (Build 1.0.61)
 Survey123 Connect (Build 1.0.59)
 
 - Browse to import existing spreadsheet added to New Survey menu
-- When publishing survey, you can choose to publish WebMap
-- When publishing survey, you can choose to use labels as field alias names
-- When publishing survey, you can choose to enable Editor Tracking
-- When publishing survey, you can choose to create domains from survey choices
+- When publishing a survey, you can choose to publish a WebMap
+- When publishing a survey, you can choose to use labels as field alias names
+- When publishing a survey, you can choose to enable Editor Tracking
+- When publishing a survey, you can choose to create domains from survey choices
 - Sign In dialog reporting errors correctly
 
 ___________________________________________________________________________________________________________________
