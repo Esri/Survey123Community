@@ -1,11 +1,31 @@
 # Community
-[Download Survey 123 and Survey 123 Connect](https://github.com/Esri/Survey123Community/issues/39)
+[Download Survey123 and Survey123 Connect](https://github.com/Esri/Survey123Community/issues/39)
 
 This is the place where you can add your feedback and issues on Survey123.
 
 You will not find source code in here for now. Simply go to the issues section and contribute there.
 
-Latest Version (19-03-2015)
+Latest Version (27-03-2015)
+
+Survey123 (Build 1.0.61)
+
+- Calendar Widget / Date Picker closes after date is selected 
+- Improve regex handling for Relevant and Constraint fields
+- Images are honoring Relevant expressions
+- Sign In dialog reporting errors correctly
+
+Survey123 Connect (Build 1.0.59)
+
+- Browse to import existing spreadsheet added to New Survey menu
+- When publishing survey, you can choose to publish WebMap
+- When publishing survey, you can choose to use labels as field alias names
+- When publishing survey, you can choose to enable Editor Tracking
+- When publishing survey, you can choose to create domains from survey choices
+- Sign In dialog reporting errors correctly
+
+___________________________________________________________________________________________________________________
+
+Previous Version (19-03-2015)
 
 Survey123 (Build 1.0.52)  
 Survey123 Connect (Build 1.0.41)
@@ -17,7 +37,7 @@ Survey123 Connect (Build 1.0.41)
 
 ___________________________________________________________________________________________________________________
 
-Older Version (27-02-2015)
+Previous Version (27-02-2015)
 
 Survey123 (Build 0.0.42)
 
