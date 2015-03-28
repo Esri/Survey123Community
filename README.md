@@ -1,9 +1,10 @@
 # Community
-[Download Survey123 and Survey123 Connect](https://github.com/Esri/Survey123Community/issues/39)
 
-This is the place where you can add your feedback and issues on Survey123.
-
-You will not find source code in here for now. Simply go to the issues section and contribute there.
+To get started navigate to http://survey123.esri.com and login with your ArcGIS Online credentials
+1) Ask Questions: Download the Survey123 Connect tool into your Desktop to transform your own XLSForms into ArcGIS Surveys. In the Survey Gallery at survey123.esri.com, click on Create New Survey to access Survey123 Connect.
+2) Get the Facts from the field: Share your Surveys with people in your organization. Ask folks in the field to download the Survey123 app and the Survey/s shared with them
+  [Download Survey123 App](https://github.com/Esri/Survey123Community/issues/39)
+3) Make better decisions: As people submit data from the field, you will be able to analyze it in Survey123.esri.com or with any ArcGIS tools.
 
 Latest Version (27-03-2015)
 
