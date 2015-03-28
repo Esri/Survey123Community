@@ -6,7 +6,7 @@ To get started navigate to http://survey123.esri.com and login with your ArcGIS 
 
 2) Get the Facts from the field: Share your Surveys with people in your organization. Ask folks in the field to download the Survey123 app and the Survey/s shared with them
 
-  [Download Survey123 App](https://github.com/Esri/Survey123Community/issues/39)
+                               [Download Survey123 App](https://github.com/Esri/Survey123Community/issues/39)
   
 3) Make better decisions: As people submit data from the field, you will be able to analyze it in Survey123.esri.com or with any ArcGIS tools.
 
