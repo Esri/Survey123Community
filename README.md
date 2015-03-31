@@ -12,7 +12,7 @@ To get started navigate to http://survey123.esri.com and login with your ArcGIS 
 
 Latest Version (31-03-2015)
 
-Survey123 (Build 1.0.64)
+Survey123 (Build 1.0.64)  
 Survey123 Connect (Build 1.0.60)
 
 - Number fields on iOS are will use the standard keyboard instead of the numeric keyboard. Unlike the numeric keyboard, this keyboard has the ability to be dismissed.
