@@ -10,7 +10,27 @@ To get started navigate to http://survey123.esri.com and login with your ArcGIS 
   
 3) Make better decisions: As people submit data from the field, you will be able to analyze it in Survey123.esri.com or with any ArcGIS tools.
 
-Latest Version (27-03-2015)
+Latest Version (31-03-2015)
+
+Survey123 (Build 1.0.64)
+Survey123 Connect (Build 1.0.60)
+
+- Number fields on iOS are will use the standard keyboard instead of the numeric keyboard. Unlike the numeric keyboard, this keyboard has the ability to be dismissed.
+
+- Improved scaling of text and buttons for the following:
+  - Constraint messages
+  - Required Fields messages
+  - Cancel Survey messages
+  - Save Draft messages
+  - Complete Survey messages
+ 
+- Option to begin a new survey added when leaving the current survey (Save Draft, Completed Survey & Cancel Survey).
+
+- ComboBox has no initial selection if default value has been set. 
+
+___________________________________________________________________________________________________________________
+
+Previous Version (27-03-2015)
 
 Survey123 (Build 1.0.61)
 
