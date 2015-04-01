@@ -1,5 +1,8 @@
 # Community
 
+
+Video Tutorial on Survey123 available here: http://youtu.be/ww7oh3p4_Vo
+
 To get started navigate to http://survey123.esri.com and login with your ArcGIS Online credentials
 
 1) Ask Questions: Download the Survey123 Connect tool into your Desktop to transform your own XLSForms into ArcGIS Surveys. In the Survey Gallery at survey123.esri.com, click on Create New Survey to access Survey123 Connect.
