@@ -13,7 +13,15 @@ To get started navigate to http://survey123.esri.com and login with your ArcGIS 
   
 3) Make better decisions: As people submit data from the field, you will be able to analyze it in Survey123.esri.com or with any ArcGIS tools.
 
-Latest Version (31-03-2015)
+Latest Version (02-04-2015)
+
+Survey123 (Build 1.0.79)  
+Survey123 Connect (Build 1.0.60)
+
+-  Improved scaling of text and buttons for the Review Completed Survey messages
+___________________________________________________________________________________________________________________
+
+Previous Version (31-03-2015)
 
 Survey123 (Build 1.0.64)  
 Survey123 Connect (Build 1.0.60)
