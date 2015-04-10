@@ -15,7 +15,7 @@ To get started navigate to http://survey123.esri.com and login with your ArcGIS 
 
 Latest Version (01-04-2015)
 
-Survey123 (Build 10.0.83)
+Survey123 (Build 10.0.83)  
 Survey123 Connect (Build 1.0.65)
 
 - Delete functionality added. Select a survey to find a 'Delete' option in the menu
