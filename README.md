@@ -12,6 +12,7 @@ To get started navigate to http://survey123.esri.com and login with your ArcGIS 
 [Download Survey123 App](https://github.com/Esri/Survey123Community/issues/39)
   
 3) Make better decisions: As people submit data from the field, you will be able to analyze it in Survey123.esri.com or with any ArcGIS tools.
+___________________________________________________________________________________________________________________
 
 Latest Version (01-04-2015)
 
