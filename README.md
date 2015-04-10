@@ -20,7 +20,7 @@ Survey123 Connect (Build 1.0.65)
 
 - Delete functionality added. Select a survey to find a 'Delete' option in the menu.
 - Survey123 workflows are compatible with ArcGIS Portal. Specify your portal address in the 'Sign In' dialog to point Survey123 at your ArcGIS Portal.
-- Surevy123 workflows are compatible with https only organizations in ArcGIS Online.
+- Survey123 workflows are compatible with https only organizations in ArcGIS Online.
 
 ___________________________________________________________________________________________________________________
 
@@ -30,7 +30,9 @@ Survey123 (Build 1.0.79)
 Survey123 Connect (Build 1.0.60)
 
 -  Improved scaling of text and buttons for the Review Completed Survey messages
+
 ___________________________________________________________________________________________________________________
+
 
 Previous Version (31-03-2015)
 
