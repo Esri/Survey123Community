@@ -19,8 +19,13 @@ Latest Version (01-04-2015)
 Survey123 (Build 10.0.83)  
 Survey123 Connect (Build 1.0.65)
 
-- Quick links to download Survey123 Connect available in the Survey123 web site. Log in and look at the bottom.
-- Delete functionality added. Select a survey to find a 'Delete' option in the menu.
+- Survey123 web site:
+  - Quick links to download Survey123 Connect available in the Survey123 web site. Log in and look at the bottom.
+  - Minor usability fixes.
+- Survey123 Connect:
+  - Delete functionality added. Select a survey to find a 'Delete' option in the menu.
+- Survey123 App:
+  - Minor usability fixes. 
 - Survey123 workflows are compatible with https only organizations in ArcGIS Online.
 - Survey123 workflows are compatible with Portal for ArcGIS 10.3.1. Specify your portal address in the 'Sign In' dialog to point Survey123 at your ArcGIS Portal.
 
