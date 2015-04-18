@@ -1,5 +1,4 @@
-# Community
-
+# Basics #
 
 Video Tutorial on Survey123 available here: http://youtu.be/ww7oh3p4_Vo
 
@@ -14,7 +13,7 @@ To get started navigate to http://survey123.esri.com and login with your ArcGIS 
 3) Make better decisions: As people submit data from the field, you will be able to analyze it in Survey123.esri.com or with any ArcGIS tools.
 ___________________________________________________________________________________________________________________
 
-Latest Version (01-04-2015)
+## Latest Version (01-04-2015) ##
 
 Survey123 (Build 10.0.83)  
 Survey123 Connect (Build 1.0.65)
@@ -33,7 +32,7 @@ Survey123 Connect (Build 1.0.65)
 
 ___________________________________________________________________________________________________________________
 
-Previous Version (02-04-2015)
+## Previous Version (02-04-2015) ##
 
 Survey123 (Build 1.0.79)  
 Survey123 Connect (Build 1.0.60)
@@ -43,7 +42,7 @@ Survey123 Connect (Build 1.0.60)
 ___________________________________________________________________________________________________________________
 
 
-Previous Version (31-03-2015)
+## Previous Version (31-03-2015) ##
 
 Survey123 (Build 1.0.64)  
 Survey123 Connect (Build 1.0.60)
@@ -63,7 +62,7 @@ Survey123 Connect (Build 1.0.60)
 
 ___________________________________________________________________________________________________________________
 
-Previous Version (27-03-2015)
+## Previous Version (27-03-2015) ##
 
 Survey123 (Build 1.0.61)
 
@@ -83,7 +82,7 @@ Survey123 Connect (Build 1.0.59)
 
 ___________________________________________________________________________________________________________________
 
-Previous Version (19-03-2015)
+## Previous Version (19-03-2015) ##
 
 Survey123 (Build 1.0.52)  
 Survey123 Connect (Build 1.0.41)
@@ -95,7 +94,7 @@ Survey123 Connect (Build 1.0.41)
 
 ___________________________________________________________________________________________________________________
 
-Previous Version (27-02-2015)
+## Previous Version (27-02-2015) ##
 
 Survey123 (Build 0.0.42)
 
