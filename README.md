@@ -16,17 +16,24 @@ ________________________________________________________________________________
 ## Latest Version (01-05-2015) ##
 
 Survey123 (Build 10.0.88)  
-
 - Select Basemap in GeoPoint Control
 - UI Improvements
  
 Survey123 Connect (Build 1.0.75)
-
 - UI Improvements
 - Settings Tab allows you to set General, Display, Style, Map and Data options e.g.,
   - Set Form and Text Colors
   - Set Default Basemap and Basemap Extent
   - Set Form Background
+
+Survey123 Web Site
+- Updated XLSForm compatibility help page
+- Added quick links in the Survey Gallery to the blog, community and installers for the Survey123 App and Connect
+
+Other
+- Works better when working behind a proxy
+
+
 ___________________________________________________________________________________________________________________
 
 ## Latest Version (01-04-2015) ##
