@@ -13,6 +13,22 @@ To get started navigate to http://survey123.esri.com and login with your ArcGIS 
 3) Make better decisions: As people submit data from the field, you will be able to analyze it in Survey123.esri.com or with any ArcGIS tools.
 ___________________________________________________________________________________________________________________
 
+## Latest Version (01-05-2015) ##
+
+Survey123 (Build 10.0.88)  
+
+- Select Basemap in GeoPoint Control
+- UI Improvements
+ 
+Survey123 Connect (Build 1.0.75)
+
+- UI Improvements
+- Settings Tab allows you to set General, Display, Style, Map and Data options e.g.,
+  - Set Form and Text Colors
+  - Set Default Basemap and Basemap Extent
+  - Set Form Background
+___________________________________________________________________________________________________________________
+
 ## Latest Version (01-04-2015) ##
 
 Survey123 (Build 10.0.83)  
