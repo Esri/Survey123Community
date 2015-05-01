@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
 ## Latest Version (01-05-2015) ##
 
-Survey123 (Build 10.0.88)  
+Survey123 (Build 1.0.88)  
 - Select Basemap in GeoPoint Control
 - UI Improvements
  
@@ -38,7 +38,7 @@ ________________________________________________________________________________
 
 ## Latest Version (01-04-2015) ##
 
-Survey123 (Build 10.0.83)  
+Survey123 (Build 1.0.83)  
 Survey123 Connect (Build 1.0.65)
 
 - Survey123 web site:
