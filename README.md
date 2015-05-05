@@ -18,13 +18,16 @@ ________________________________________________________________________________
 ## Latest Version (05-05-2015) ##
 
 Survey123 (Build 1.0.97)  
-- Capture location information (when available) in background without a geopoint control
+- Look and feel of the app has changed (a work in progress still)
+- Location is now captured automatically as long as your device provides location. If you have a geopoint question, your location becomes the default for that question. If you have no geopoint question, we capture the location anyways.
+- The map control now includes a basemap switcher (supports tiled services from ArcGIS Online, ArcGIS for Server as well as OpenStreetMap)
 - Compact appearance for select_multiple fields improved
+- Improved support for Image type of questions
  
 Survey123 Connect (Build 1.0.81)
-- Ability to re-publish forms package
-- Support for attachments (e.g., photographs) in feature services
-- Main Toolbar is now displayed vertical
+- You can now update a survey without having to delete the underlying feature service
+- More options added so you can set the default basemap, the color scheme of your survey as well as a snippets
+
 
 ___________________________________________________________________________________________________________________
 
