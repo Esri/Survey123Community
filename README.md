@@ -15,6 +15,19 @@ To get started navigate to http://survey123.esri.com and login with your ArcGIS 
 Some more tips available at our blog: http://survey123.esri.com/#/blog 
 ___________________________________________________________________________________________________________________
 
+## Latest Version (05-05-2015) ##
+
+Survey123 (Build 1.0.97)  
+- Capture location information (when available) in background without a geopoint control
+- Compact appearance for select_multiple fields improved
+ 
+Survey123 Connect (Build 1.0.81)
+- Ability to re-publish forms package
+- Support for attachments (e.g., photographs) in feature services
+- Main Toolbar is now displayed vertical
+
+___________________________________________________________________________________________________________________
+
 ## Latest Version (01-05-2015) ##
 
 Survey123 (Build 1.0.88)  
