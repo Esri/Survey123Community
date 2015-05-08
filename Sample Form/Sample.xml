@@ -1,0 +1,699 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:orx="http://openrosa.org/xforms/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head>
+    <h:title>My Survey</h:title>
+    <model>
+      <itext>
+        <translation default="true()" lang="default">
+          <text id="/Sample/appearance/select_one_shapes/oval:label">
+            <value form="image">jr://images/oval.jpg</value>
+            <value>Oval</value>
+          </text>
+          <text id="/Sample/appearance/select_compact_one/circle:label">
+            <value form="image">jr://images/circle.jpg</value>
+            <value>Circle</value>
+          </text>
+          <text id="/Sample/appearance/select_one_shapes/triangle:label">
+            <value form="image">jr://images/triangle.jpg</value>
+            <value>Triangle</value>
+          </text>
+          <text id="/Sample/appearance/select_compact_one/triangle:label">
+            <value form="image">jr://images/triangle.jpg</value>
+            <value>Triangle</value>
+          </text>
+          <text id="/Sample/appearance/select_compact_one/square:label">
+            <value form="image">jr://images/square.jpg</value>
+            <value>Square</value>
+          </text>
+          <text id="/Sample/language/select_animal/dog:label">
+            <value>dog</value>
+          </text>
+          <text id="/Sample/appearance/select_one_shapes/circle:label">
+            <value form="image">jr://images/circle.jpg</value>
+            <value>Circle</value>
+          </text>
+          <text id="/Sample/appearance/select_one_shapes/rectangle:label">
+            <value form="image">jr://images/rectangle.jpg</value>
+            <value>Rectangle</value>
+          </text>
+          <text id="/Sample/language/select_animal/fish:label">
+            <value>fish</value>
+          </text>
+          <text id="/Sample/appearance/select_compact_one/rectangle:label">
+            <value form="image">jr://images/rectangle.jpg</value>
+            <value>Rectangle</value>
+          </text>
+          <text id="/Sample/language/select_animal/bird:label">
+            <value>bird</value>
+          </text>
+          <text id="/Sample/language/select_animal/rabbit:label">
+            <value>rabbit</value>
+          </text>
+          <text id="/Sample/language/select_animal/cat:label">
+            <value>cat</value>
+          </text>
+          <text id="/Sample/appearance/select_one_shapes/square:label">
+            <value form="image">jr://images/square.jpg</value>
+            <value>Square</value>
+          </text>
+          <text id="/Sample/appearance/select_compact_one/oval:label">
+            <value form="image">jr://images/oval.jpg</value>
+            <value>Oval</value>
+          </text>
+          <text id="/Sample/group_3/skip/note_1:label">
+            <value form="image">jr://images/lion.jpg</value>
+            <value form="audio">jr://audio/lion.mp3</value>
+            <value>All About Lions:</value>
+          </text>
+        </translation>
+        <translation lang="greek">
+          <text id="/Sample/appearance/select_one_shapes/oval:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/group_3/skip/note_1:label">
+            <value form="image">jr://images/-</value>
+            <value form="audio">jr://audio/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/appearance/select_one_shapes/triangle:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/appearance/select_compact_one/triangle:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/appearance/select_compact_one/square:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/language/select_animal/dog:label">
+            <value>σκύλος</value>
+          </text>
+          <text id="/Sample/appearance/select_one_shapes/circle:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/appearance/select_one_shapes/rectangle:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/language/select_animal/fish:label">
+            <value>ψάρι</value>
+          </text>
+          <text id="/Sample/appearance/select_compact_one/rectangle:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/language/select_animal/bird:label">
+            <value>πουλί</value>
+          </text>
+          <text id="/Sample/language/select_animal/rabbit:label">
+            <value>κουνέλι</value>
+          </text>
+          <text id="/Sample/language/select_animal/cat:label">
+            <value>γάτα</value>
+          </text>
+          <text id="/Sample/appearance/select_one_shapes/square:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/appearance/select_compact_one/oval:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/appearance/select_compact_one/circle:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+        </translation>
+        <translation lang="japanese">
+          <text id="/Sample/appearance/select_one_shapes/oval:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/group_3/skip/note_1:label">
+            <value form="image">jr://images/-</value>
+            <value form="audio">jr://audio/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/appearance/select_one_shapes/triangle:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/appearance/select_compact_one/triangle:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/appearance/select_compact_one/square:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/language/select_animal/dog:label">
+            <value>犬</value>
+          </text>
+          <text id="/Sample/appearance/select_one_shapes/circle:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/appearance/select_one_shapes/rectangle:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/language/select_animal/fish:label">
+            <value>魚</value>
+          </text>
+          <text id="/Sample/appearance/select_compact_one/rectangle:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/language/select_animal/bird:label">
+            <value>鳥</value>
+          </text>
+          <text id="/Sample/language/select_animal/rabbit:label">
+            <value>ウサギ</value>
+          </text>
+          <text id="/Sample/language/select_animal/cat:label">
+            <value>猫</value>
+          </text>
+          <text id="/Sample/appearance/select_one_shapes/square:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/appearance/select_compact_one/oval:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/appearance/select_compact_one/circle:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+        </translation>
+        <translation lang="spanish">
+          <text id="/Sample/appearance/select_one_shapes/oval:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/group_3/skip/note_1:label">
+            <value form="image">jr://images/-</value>
+            <value form="audio">jr://audio/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/appearance/select_one_shapes/triangle:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/appearance/select_compact_one/triangle:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/appearance/select_compact_one/square:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/language/select_animal/dog:label">
+            <value>perro</value>
+          </text>
+          <text id="/Sample/appearance/select_one_shapes/circle:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/appearance/select_one_shapes/rectangle:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/language/select_animal/fish:label">
+            <value>pescado</value>
+          </text>
+          <text id="/Sample/appearance/select_compact_one/rectangle:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/language/select_animal/bird:label">
+            <value>pájaro</value>
+          </text>
+          <text id="/Sample/language/select_animal/rabbit:label">
+            <value>conejo</value>
+          </text>
+          <text id="/Sample/language/select_animal/cat:label">
+            <value>gato</value>
+          </text>
+          <text id="/Sample/appearance/select_one_shapes/square:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/appearance/select_compact_one/oval:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+          <text id="/Sample/appearance/select_compact_one/circle:label">
+            <value form="image">jr://images/-</value>
+            <value>-</value>
+          </text>
+        </translation>
+      </itext>
+      <instance>
+        <Sample id="myform">
+          <basic>
+            <text_1/>
+            <integer_1/>
+            <decimal_1/>
+            <select_one_1/>
+            <select_one_otheer_1/>
+            <select_one_otheer_1_other/>
+            <select_multiple_1/>
+            <select_multiple_other_1/>
+            <select_multiple_other_1_other/>
+            <date_1/>
+            <time_1/>
+            <image_1/>
+            <geopoint_1/>
+            <note/>
+          </basic>
+          <other>
+            <date_required/>
+            <text_default>Default Text</text_default>
+            <int_readonly>100</int_readonly>
+            <int_calc/>
+          </other>
+          <group_2>
+            <cons_text/>
+            <cons_integer/>
+            <cons_decimal/>
+          </group_2>
+          <group_3>
+            <select_relevant/>
+            <note_relvevant/>
+            <note_irrelevant/>
+            <select_multiple_relevant/>
+            <text_relevant/>
+            <skip_group/>
+            <skip>
+              <note_1/>
+            </skip>
+          </group_3>
+          <language>
+            <note_lang/>
+            <select_animal/>
+          </language>
+          <appearance>
+            <text_multiline/>
+            <select_one_no_style/>
+            <select_minimal_one/>
+            <select_horizontal_one/>
+            <select_one_shapes/>
+            <select_compact_one/>
+          </appearance>
+          <meta>
+            <instanceID/>
+          </meta>
+        </Sample>
+      </instance>
+      <bind nodeset="/Sample/basic/text_1" type="string"/>
+      <bind nodeset="/Sample/basic/integer_1" type="int"/>
+      <bind nodeset="/Sample/basic/decimal_1" type="decimal"/>
+      <bind nodeset="/Sample/basic/select_one_1" type="select1"/>
+      <bind nodeset="/Sample/basic/select_one_otheer_1" type="select1"/>
+      <bind nodeset="/Sample/basic/select_one_otheer_1_other" relevant="selected(../select_one_otheer_1, 'other')" type="string"/>
+      <bind nodeset="/Sample/basic/select_multiple_1" type="select"/>
+      <bind nodeset="/Sample/basic/select_multiple_other_1" type="select"/>
+      <bind nodeset="/Sample/basic/select_multiple_other_1_other" relevant="selected(../select_multiple_other_1, 'other')" type="string"/>
+      <bind nodeset="/Sample/basic/date_1" type="date"/>
+      <bind nodeset="/Sample/basic/time_1" type="time"/>
+      <bind nodeset="/Sample/basic/image_1" type="binary"/>
+      <bind nodeset="/Sample/basic/geopoint_1" type="geopoint"/>
+      <bind nodeset="/Sample/basic/note" readonly="true()" type="string"/>
+      <bind nodeset="/Sample/other/date_required" required="true()" type="date"/>
+      <bind nodeset="/Sample/other/text_default" type="string"/>
+      <bind nodeset="/Sample/other/int_readonly" readonly="true()" type="int"/>
+      <bind calculate="100 *  /Sample/other/int_readonly " nodeset="/Sample/other/int_calc" type="int"/>
+      <bind constraint="regex(., '[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}')" jr:constraintMsg="Enter a valid email address e.g., name@email.com" nodeset="/Sample/group_2/cons_text" type="string"/>
+      <bind constraint=". &gt;=100" jr:constraintMsg="Number must be larger than 100" nodeset="/Sample/group_2/cons_integer" type="int"/>
+      <bind constraint=". &gt; 10.51 and . &lt; 18.39" jr:constraintMsg="Requires a number between 10.51 and 18.39" nodeset="/Sample/group_2/cons_decimal" type="decimal"/>
+      <bind nodeset="/Sample/group_3/select_relevant" type="select1"/>
+      <bind nodeset="/Sample/group_3/note_relvevant" readonly="true()" relevant=" /Sample/group_3/select_relevant  = 1" type="string"/>
+      <bind nodeset="/Sample/group_3/note_irrelevant" readonly="true()" relevant=" /Sample/group_3/select_relevant  = 0" type="string"/>
+      <bind nodeset="/Sample/group_3/select_multiple_relevant" type="select"/>
+      <bind nodeset="/Sample/group_3/text_relevant" relevant="selected( /Sample/group_3/select_multiple_relevant , 'blue')" type="string"/>
+      <bind nodeset="/Sample/group_3/skip_group" type="select1"/>
+      <bind nodeset="/Sample/group_3/skip" relevant=" /Sample/group_3/skip_group  = 0"/>
+      <bind nodeset="/Sample/group_3/skip/note_1" readonly="true()" type="string"/>
+      <bind nodeset="/Sample/language/note_lang" readonly="true()" type="string"/>
+      <bind nodeset="/Sample/language/select_animal" type="select1"/>
+      <bind nodeset="/Sample/appearance/text_multiline" type="string"/>
+      <bind nodeset="/Sample/appearance/select_one_no_style" type="select1"/>
+      <bind nodeset="/Sample/appearance/select_minimal_one" type="select1"/>
+      <bind nodeset="/Sample/appearance/select_horizontal_one" type="select1"/>
+      <bind nodeset="/Sample/appearance/select_one_shapes" type="select1"/>
+      <bind nodeset="/Sample/appearance/select_compact_one" type="select1"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/Sample/meta/instanceID" readonly="true()" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <group ref="/Sample/basic">
+      <label>Basic Types:</label>
+      <input ref="/Sample/basic/text_1">
+        <label>Text</label>
+        <hint>Hint text goes here:</hint>
+      </input>
+      <input ref="/Sample/basic/integer_1">
+        <label>Integer</label>
+        <hint>Hint text goes here:</hint>
+      </input>
+      <input ref="/Sample/basic/decimal_1">
+        <label>Decimal</label>
+        <hint>Hint text goes here:</hint>
+      </input>
+      <select1 ref="/Sample/basic/select_one_1">
+        <label>Select One</label>
+        <hint>Hint text goes here:</hint>
+        <item>
+          <label>no</label>
+          <value>0</value>
+        </item>
+        <item>
+          <label>yes</label>
+          <value>1</value>
+        </item>
+      </select1>
+      <select1 ref="/Sample/basic/select_one_otheer_1">
+        <label>Select One or Other</label>
+        <hint>Hint text goes here:</hint>
+        <item>
+          <label>no</label>
+          <value>0</value>
+        </item>
+        <item>
+          <label>yes</label>
+          <value>1</value>
+        </item>
+        <item>
+          <label>Other</label>
+          <value>other</value>
+        </item>
+      </select1>
+      <input ref="/Sample/basic/select_one_otheer_1_other">
+        <label>Specify other.</label>
+      </input>
+      <select ref="/Sample/basic/select_multiple_1">
+        <label>Select Multiple</label>
+        <hint>Hint text goes here:</hint>
+        <item>
+          <label>Blue</label>
+          <value>blue</value>
+        </item>
+        <item>
+          <label>Red</label>
+          <value>red</value>
+        </item>
+        <item>
+          <label>Yellow</label>
+          <value>yellow</value>
+        </item>
+        <item>
+          <label>Green</label>
+          <value>green</value>
+        </item>
+      </select>
+      <select ref="/Sample/basic/select_multiple_other_1">
+        <label>Select Multiple or Other</label>
+        <hint>Hint text goes here:</hint>
+        <item>
+          <label>Blue</label>
+          <value>blue</value>
+        </item>
+        <item>
+          <label>Red</label>
+          <value>red</value>
+        </item>
+        <item>
+          <label>Yellow</label>
+          <value>yellow</value>
+        </item>
+        <item>
+          <label>Green</label>
+          <value>green</value>
+        </item>
+        <item>
+          <label>Other</label>
+          <value>other</value>
+        </item>
+      </select>
+      <input ref="/Sample/basic/select_multiple_other_1_other">
+        <label>Specify other.</label>
+      </input>
+      <input ref="/Sample/basic/date_1">
+        <label>Date</label>
+        <hint>Hint text goes here:</hint>
+      </input>
+      <input ref="/Sample/basic/time_1">
+        <label>Time</label>
+        <hint>Hint text goes here:</hint>
+      </input>
+      <upload mediatype="image/*" ref="/Sample/basic/image_1">
+        <label>Image</label>
+        <hint>Hint text goes here:</hint>
+      </upload>
+      <input ref="/Sample/basic/geopoint_1">
+        <label>Geopoint</label>
+        <hint>Hint text goes here:</hint>
+      </input>
+      <input ref="/Sample/basic/note">
+        <label>Note</label>
+        <hint>This field is for display on the form only.</hint>
+      </input>
+    </group>
+    <group ref="/Sample/other">
+      <label>Other Types:</label>
+      <input ref="/Sample/other/date_required">
+        <label>Required</label>
+        <hint>This field is required</hint>
+      </input>
+      <input ref="/Sample/other/text_default">
+        <label>Default</label>
+        <hint>This is a default value</hint>
+      </input>
+      <input ref="/Sample/other/int_readonly">
+        <label>Read Only</label>
+        <hint>This field is read only</hint>
+      </input>
+      <input ref="/Sample/other/int_calc">
+        <label>Calculated Field</label>
+        <hint>You can recalculate this field after editing by hitting refresh</hint>
+      </input>
+    </group>
+    <group ref="/Sample/group_2">
+      <label>Constraints</label>
+      <input ref="/Sample/group_2/cons_text">
+        <label>Text Constraint</label>
+        <hint>Enter your email address</hint>
+      </input>
+      <input ref="/Sample/group_2/cons_integer">
+        <label>Integer Constraint</label>
+        <hint>Only numbers &gt; 100</hint>
+      </input>
+      <input ref="/Sample/group_2/cons_decimal">
+        <label>Decimal Constraint</label>
+        <hint>Only numbers &gt; 10.51 and &lt; 18.39</hint>
+      </input>
+    </group>
+    <group ref="/Sample/group_3">
+      <label>Relevant</label>
+      <select1 ref="/Sample/group_3/select_relevant">
+        <label>Is this question relevant?</label>
+        <item>
+          <label>no</label>
+          <value>0</value>
+        </item>
+        <item>
+          <label>yes</label>
+          <value>1</value>
+        </item>
+      </select1>
+      <input ref="/Sample/group_3/note_relvevant">
+        <label>This question is relevant</label>
+      </input>
+      <input ref="/Sample/group_3/note_irrelevant">
+        <label>This question is irrelevant</label>
+      </input>
+      <select ref="/Sample/group_3/select_multiple_relevant">
+        <label>What is your favourite color?</label>
+        <item>
+          <label>Blue</label>
+          <value>blue</value>
+        </item>
+        <item>
+          <label>Red</label>
+          <value>red</value>
+        </item>
+        <item>
+          <label>Yellow</label>
+          <value>yellow</value>
+        </item>
+        <item>
+          <label>Green</label>
+          <value>green</value>
+        </item>
+      </select>
+      <input ref="/Sample/group_3/text_relevant">
+        <label>What shade of green?</label>
+      </input>
+      <select1 ref="/Sample/group_3/skip_group">
+        <label>Did you want to skip the next group?</label>
+        <item>
+          <label>no</label>
+          <value>0</value>
+        </item>
+        <item>
+          <label>yes</label>
+          <value>1</value>
+        </item>
+      </select1>
+      <group ref="/Sample/group_3/skip">
+        <label>Lions</label>
+        <input ref="/Sample/group_3/skip/note_1">
+          <label ref="jr:itext('/Sample/group_3/skip/note_1:label')"/>
+        </input>
+      </group>
+    </group>
+    <group ref="/Sample/language">
+      <label>Multiple Languages:</label>
+      <input ref="/Sample/language/note_lang">
+        <label>Select a language from the top-right menu:</label>
+      </input>
+      <select1 ref="/Sample/language/select_animal">
+        <label>Select One</label>
+        <item>
+          <label ref="jr:itext('/Sample/language/select_animal/dog:label')"/>
+          <value>dog</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/Sample/language/select_animal/cat:label')"/>
+          <value>cat</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/Sample/language/select_animal/bird:label')"/>
+          <value>bird</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/Sample/language/select_animal/fish:label')"/>
+          <value>fish</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/Sample/language/select_animal/rabbit:label')"/>
+          <value>rabbit</value>
+        </item>
+      </select1>
+    </group>
+    <group ref="/Sample/appearance">
+      <label>Appearance:</label>
+      <input appearance="multiline" ref="/Sample/appearance/text_multiline">
+        <label>Multiline Text</label>
+      </input>
+      <select1 ref="/Sample/appearance/select_one_no_style">
+        <label>Select One</label>
+        <item>
+          <label>Blue</label>
+          <value>blue</value>
+        </item>
+        <item>
+          <label>Red</label>
+          <value>red</value>
+        </item>
+        <item>
+          <label>Yellow</label>
+          <value>yellow</value>
+        </item>
+        <item>
+          <label>Green</label>
+          <value>green</value>
+        </item>
+      </select1>
+      <select1 appearance="minimal" ref="/Sample/appearance/select_minimal_one">
+        <label>Select One Minimal</label>
+        <item>
+          <label>Blue</label>
+          <value>blue</value>
+        </item>
+        <item>
+          <label>Red</label>
+          <value>red</value>
+        </item>
+        <item>
+          <label>Yellow</label>
+          <value>yellow</value>
+        </item>
+        <item>
+          <label>Green</label>
+          <value>green</value>
+        </item>
+      </select1>
+      <select1 appearance="horizontal" ref="/Sample/appearance/select_horizontal_one">
+        <label>Select One Horizontal</label>
+        <item>
+          <label>Blue</label>
+          <value>blue</value>
+        </item>
+        <item>
+          <label>Red</label>
+          <value>red</value>
+        </item>
+        <item>
+          <label>Yellow</label>
+          <value>yellow</value>
+        </item>
+        <item>
+          <label>Green</label>
+          <value>green</value>
+        </item>
+      </select1>
+      <select1 ref="/Sample/appearance/select_one_shapes">
+        <label>Select One</label>
+        <item>
+          <label ref="jr:itext('/Sample/appearance/select_one_shapes/square:label')"/>
+          <value>square</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/Sample/appearance/select_one_shapes/triangle:label')"/>
+          <value>triangle</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/Sample/appearance/select_one_shapes/circle:label')"/>
+          <value>circle</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/Sample/appearance/select_one_shapes/rectangle:label')"/>
+          <value>rectangle</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/Sample/appearance/select_one_shapes/oval:label')"/>
+          <value>oval</value>
+        </item>
+      </select1>
+      <select1 appearance="compact" ref="/Sample/appearance/select_compact_one">
+        <label>Select One Compact</label>
+        <item>
+          <label ref="jr:itext('/Sample/appearance/select_compact_one/square:label')"/>
+          <value>square</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/Sample/appearance/select_compact_one/triangle:label')"/>
+          <value>triangle</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/Sample/appearance/select_compact_one/circle:label')"/>
+          <value>circle</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/Sample/appearance/select_compact_one/rectangle:label')"/>
+          <value>rectangle</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/Sample/appearance/select_compact_one/oval:label')"/>
+          <value>oval</value>
+        </item>
+      </select1>
+    </group>
+  </h:body>
+</h:html>
