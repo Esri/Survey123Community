@@ -15,6 +15,15 @@ To get started navigate to http://survey123.esri.com and login with your ArcGIS 
 Some more tips available at our blog: http://survey123.esri.com/#/blog 
 ___________________________________________________________________________________________________________________
 
+## Latest Version (15-05-2015) ##
+
+Survey123 (Build 1.0.124)  
+Survey123 Connect (Build 1.0.89)
+- Read-only support for geopoint fields. WIll display location on the map, but location cannot be captured manually. 
+- UI scaling improved on high resolution devices.
+- General bug fixes.
+___________________________________________________________________________________________________________________
+
 ## Latest Version (05-05-2015) ##
 
 Survey123 (Build 1.0.114)  
