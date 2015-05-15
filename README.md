@@ -22,6 +22,7 @@ Survey123 Connect (Build 1.0.89)
 - Read-only support for geopoint fields. WIll display location on the map, but location cannot be captured manually. 
 - UI scaling improved on high resolution devices.
 - General bug fixes.
+- 
 ___________________________________________________________________________________________________________________
 
 ## Latest Version (05-05-2015) ##
