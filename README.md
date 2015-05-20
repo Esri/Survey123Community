@@ -29,8 +29,6 @@ ________________________________________________________________________________
 
 Survey123 (Build 1.0.114)  
 - Select ones are now legible in Android if you use an appearance setting 
-
-Survey123 (Build 1.0.97)  
 - Look and feel of the app has changed (a work in progress still)
 - Location is now captured automatically as long as your device provides location. If you have a geopoint question, your location becomes the default for that question. If you have no geopoint question, we capture the location anyways.
 - The map control now includes a basemap switcher (supports tiled services from ArcGIS Online, ArcGIS for Server as well as OpenStreetMap)
