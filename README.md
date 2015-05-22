@@ -13,6 +13,17 @@ To get started navigate to http://survey123.esri.com and login with your ArcGIS 
 3) Make better decisions: As people submit data from the field, you will be able to analyze it in Survey123.esri.com or with any ArcGIS tools.
 
 Some more tips available at our blog: http://survey123.esri.com/#/blog 
+
+___________________________________________________________________________________________________________________
+
+## Latest Version (22-05-2015) ##
+
+Survey123 (Build 1.0.131)  
+Survey123 Connect (Build 1.0.95)
+- Calculate fields supported.
+- Date fields displaying correctly in survey snippets.
+- General bug fixes.
+
 ___________________________________________________________________________________________________________________
 
 ## Latest Version (15-05-2015) ##
