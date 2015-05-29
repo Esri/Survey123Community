@@ -16,6 +16,23 @@ Some more tips available at our blog: http://survey123.esri.com/#/blog
 
 ___________________________________________________________________________________________________________________
 
+## Latest Version (29-05-2015) ##
+
+Survey123 (Build 1.0.144)  
+- UI scaling improvements.
+- Workflows changed to be more email-like (Drafts, Outbox, Sent).
+- Ability to delete draft surveys added.
+- Passwords now saved for easier sign-in.
+- HTML formatting supported. 
+
+Survey123 Connect (Build 1.0.108)
+- Specify form submission name supported (see http://xlsform.org/#instance-name).
+- Ability to set map display units.
+- General bug fixes.
+ 
+(http://www.screencast.com/t/oZQy9pCmCQ)
+___________________________________________________________________________________________________________________
+
 ## Latest Version (22-05-2015) ##
 
 Survey123 (Build 1.0.131)  
