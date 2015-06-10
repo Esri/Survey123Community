@@ -17,9 +17,9 @@
           <blockquote/>
           <Underlined/>
           <Typewrite/>
-          <sub/>
-          <lists/>
-          <euro/>
+          <Strikethrough/>
+          <Lists/>
+          <Euro/>
           <meta>
             <instanceID/>
           </meta>
@@ -37,9 +37,9 @@
       <bind nodeset="/HTMLFormatting/blockquote" readonly="true()" type="string"/>
       <bind nodeset="/HTMLFormatting/Underlined" readonly="true()" type="string"/>
       <bind nodeset="/HTMLFormatting/Typewrite" readonly="true()" type="string"/>
-      <bind nodeset="/HTMLFormatting/sub" readonly="true()" type="string"/>
-      <bind nodeset="/HTMLFormatting/lists" readonly="true()" type="string"/>
-      <bind nodeset="/HTMLFormatting/euro" readonly="true()" type="string"/>
+      <bind nodeset="/HTMLFormatting/Strikethrough" readonly="true()" type="string"/>
+      <bind nodeset="/HTMLFormatting/Lists" readonly="true()" type="string"/>
+      <bind nodeset="/HTMLFormatting/Euro" readonly="true()" type="string"/>
       <bind calculate="concat('uuid:', uuid())" nodeset="/HTMLFormatting/meta/instanceID" readonly="true()" type="string"/>
     </model>
   </h:head>
@@ -54,7 +54,7 @@
       <label>&lt;b&gt;This text is bold&lt;/b&gt;</label>
     </input>
     <input ref="/HTMLFormatting/Italics">
-      <label>&lt;i&gt;This text is italllized or however you spell it&lt;/i&gt;</label>
+      <label>&lt;i&gt;This text is in italics&lt;/i&gt;</label>
     </input>
     <input ref="/HTMLFormatting/H1">
       <label>&lt;H1&gt;Header 1&lt;/H&gt;</label>
@@ -78,15 +78,15 @@
       <label>One word is &lt;u&gt;underlined&lt;/u&gt;</label>
     </input>
     <input ref="/HTMLFormatting/Typewrite">
-      <label>One word is &lt;tt&gt;typewrite font&lt;/tt&gt;</label>
+      <label>One word is &lt;tt&gt;typewrite&lt;/tt&gt; font</label>
     </input>
-    <input ref="/HTMLFormatting/sub">
-      <label>One word is &lt;s&gt;typewrite font&lt;/s&gt;</label>
+    <input ref="/HTMLFormatting/Strikethrough">
+      <label>One word is &lt;s&gt;strikethrough&lt;/s&gt; font</label>
     </input>
-    <input ref="/HTMLFormatting/lists">
+    <input ref="/HTMLFormatting/Lists">
       <label>&lt;ul&gt;You can apply HTML formatting to:&lt;li&gt;Groups&lt;/li&gt;&lt;li&gt;Questions&lt;/li&gt;&lt;li&gt;Notes&lt;/li&gt;&lt;ul&gt;</label>
     </input>
-    <input ref="/HTMLFormatting/euro">
+    <input ref="/HTMLFormatting/Euro">
       <label>&lt;p&gt;I will display &amp;euro;&lt;/p&gt;</label>
     </input>
   </h:body>
