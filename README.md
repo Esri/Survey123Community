@@ -1,18 +1,18 @@
 # Basics #
 
-Video Tutorial on Survey123 available here: http://youtu.be/ww7oh3p4_Vo
+Video Tutorial on Survey123 available here: https://youtu.be/0gGQbCuPRQI
 
 To get started navigate to http://survey123.esri.com and login with your ArcGIS Online credentials
 
 1) Ask Questions: Download the Survey123 Connect tool into your Desktop to transform your own XLSForms into ArcGIS Surveys. In the Survey Gallery at survey123.esri.com, click on Create New Survey to access Survey123 Connect.
 
-2) Get the Facts from the field: Share your Surveys with people in your organization. Ask folks in the field to download the Survey123 app and the Survey/s shared with them
+2) Get the Facts from the field: Share your Surveys with people in your organization. Ask folks in the field to download the Survey123 app and the Survey/s shared with them. The app is available in the google play and apple app stores. There are also downloads available for Windows and Macs.
 
-[Download Survey123 App](https://github.com/Esri/Survey123Community/issues/39)
+[Download Survey123 App](https://survey123forarcgis.wordpress.com/2015/04/28/installing-the-survey123-for-arcgis-app/)
   
 3) Make better decisions: As people submit data from the field, you will be able to analyze it in Survey123.esri.com or with any ArcGIS tools.
 
-Some more tips available at our blog: http://survey123.esri.com/#/blog 
+Some more tips available at [our blog](https://survey123forarcgis.wordpress.com/2015/04/28/installing-the-survey123-for-arcgis-app/): 
 
 ___________________________________________________________________________________________________________________
 
@@ -23,14 +23,14 @@ Survey123 (Build 1.0.144)
 - Workflows changed to be more email-like (Drafts, Outbox, Sent).
 - Ability to delete draft surveys added.
 - Passwords now saved for easier sign-in.
-- HTML formatting supported. 
+- HTML formatting supported in labels. 
+- Size in Android is now 15Mb. In iOS is around 50Mb.
 
 Survey123 Connect (Build 1.0.108)
 - Specify form submission name supported (see http://xlsform.org/#instance-name).
 - Ability to set map display units.
 - General bug fixes.
  
-(http://www.screencast.com/t/oZQy9pCmCQ)
 ___________________________________________________________________________________________________________________
 
 ## Latest Version (22-05-2015) ##
