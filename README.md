@@ -16,6 +16,13 @@ Some more tips available at [our blog](https://survey123forarcgis.wordpress.com/
 
 ___________________________________________________________________________________________________________________
 
+## Survey123 Connect Update (30-06-2015) ##
+
+Survey123 Connect (Build 1.0.118)  
+
+For all of you who have been recieving errors from the Survey123 form conversion service, we have updated Survey123 Connect to use a new service. When you install Survey123 Connect, select the settings icon next to the version number. This should be set to https://survey123.esri.com/api. If not, delete the current entry, then close and open Survey123 Connect to get the new default setting. Thhis addresses the needs of users effected by 'XLSForm conversion failed' messages ( https://github.com/Esri/Survey123Community/issues/117).
+___________________________________________________________________________________________________________________
+
 ## Latest Version (29-05-2015) ##
 
 Survey123 (Build 1.0.144)  
