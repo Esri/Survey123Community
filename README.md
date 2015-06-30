@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 Survey123 Connect (Build 1.0.118)  
 
-For all of you who have been recieving errors from the Survey123 form conversion service, we have updated Survey123 Connect to use a new service. When you install Survey123 Connect, select the settings icon next to the version number. This should be set to https://survey123.esri.com/api. If not, delete the current entry, then close and open Survey123 Connect to get the new default setting. Thhis addresses the needs of users effected by 'XLSForm conversion failed' messages ( https://github.com/Esri/Survey123Community/issues/117).
+For those of you who have been receiving errors from the Survey123 form conversion service, we have updated Survey123 Connect to use a new service. When you install Survey123 Connect, select the settings icon next to the version number. The Survey123 REST API URL should be set to https://survey123.esri.com/api. If not, delete the current entry, then close and open Survey123 Connect to get the new default setting. This addresses the issue: XLSForm conversion failed (https://github.com/Esri/Survey123Community/issues/117).
 ___________________________________________________________________________________________________________________
 
 ## Latest Version (29-05-2015) ##
