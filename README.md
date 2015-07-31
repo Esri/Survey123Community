@@ -20,8 +20,6 @@ ________________________________________________________________________________
 
 Survey123 Connect (Build 1.0.143)  
 
-Important update with fixes and new features.
-
 FIXES:
 - https://github.com/Esri/Survey123Community/issues/131
 - https://github.com/Esri/Survey123Community/issues/58
