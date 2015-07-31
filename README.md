@@ -35,10 +35,10 @@ NEW FEATURES:
 - Add a 'start' question type and your survey feature service will be time-enabled (blog post coming soon)
 - You can now define the exact mapping of your question to esri field types (blog post coming soon)
 - Enhanced XLSForm support
-  username: this question type will automatically capture the name of the person logged in to the Survey123 app. It is similar to what you get with Editor Tracking... but it is handy to have this one when working with ArcGIS Server secured services used through a proxy with embedded credentials.
-  email: similar to username, but captures the email associated with the person logged in (as obtained from the ArcGIS profile)
-  hidden: this new type of question is useful when you want to use Connect to add additional fields into your feature service, but you do not want these fields to show in the Survey. You will typically use this type of question in combination with the columns bind::esri:fieldType and bind::esri:fieldLength which we will also describe in a blog post. (Will also provide more details in a blog post).
-  signature: The signature appearance in image fields allows you to capture signatures from respondents.
+  - username: this question type will automatically capture the name of the person logged in to the Survey123 app. It is similar to what you get with Editor Tracking... but it is handy to have this one when working with ArcGIS Server secured services used through a proxy with embedded credentials.
+  - email: similar to username, but captures the email associated with the person logged in (as obtained from the ArcGIS profile)
+  - hidden: this new type of question is useful when you want to use Connect to add additional fields into your feature service, but you do not want these fields to show in the Survey. You will typically use this type of question in combination with the columns bind::esri:fieldType and bind::esri:fieldLength which we will also describe in a blog post. (Will also provide more details in a blog post).
+  - signature: The signature appearance in image fields allows you to capture signatures from respondents.
 
 ___________________________________________________________________________________________________________________
 
