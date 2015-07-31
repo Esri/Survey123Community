@@ -50,7 +50,7 @@ This minor update addresses the form conversion errors described [in this thread
 If you ever run into these issues before, after installing the update please select the settings icon next to the version number of Survey123 Connect in the bottom-left corner. The Survey123 REST API URL should be set to https://survey123.esri.com/api. If not, delete the current entry, then close and open Survey123 Connect to get the new default setting. 
 ___________________________________________________________________________________________________________________
 
-## Latest Version (29-05-2015) ##
+## Update (29-05-2015) ##
 
 Survey123 (Build 1.0.144)  
 - UI scaling improvements.
@@ -67,7 +67,7 @@ Survey123 Connect (Build 1.0.108)
  
 ___________________________________________________________________________________________________________________
 
-## Latest Version (22-05-2015) ##
+## Update (22-05-2015) ##
 
 Survey123 (Build 1.0.131)  
 Survey123 Connect (Build 1.0.95)
@@ -77,7 +77,7 @@ Survey123 Connect (Build 1.0.95)
 
 ___________________________________________________________________________________________________________________
 
-## Latest Version (15-05-2015) ##
+## Update (15-05-2015) ##
 
 Survey123 (Build 1.0.124)  
 Survey123 Connect (Build 1.0.89)
@@ -87,7 +87,7 @@ Survey123 Connect (Build 1.0.89)
  
 ___________________________________________________________________________________________________________________
 
-## Latest Version (05-05-2015) ##
+## Update (05-05-2015) ##
 
 Survey123 (Build 1.0.114)  
 - Select ones are now legible in Android if you use an appearance setting 
@@ -104,7 +104,7 @@ Survey123 Connect (Build 1.0.81)
 
 ___________________________________________________________________________________________________________________
 
-## Latest Version (01-05-2015) ##
+## Update (01-05-2015) ##
 
 Survey123 (Build 1.0.88)  
 - Select Basemap in GeoPoint Control
@@ -127,7 +127,7 @@ Other
 
 ___________________________________________________________________________________________________________________
 
-## Latest Version (01-04-2015) ##
+## Update (01-04-2015) ##
 
 Survey123 (Build 1.0.83)  
 Survey123 Connect (Build 1.0.65)
@@ -146,7 +146,7 @@ Survey123 Connect (Build 1.0.65)
 
 ___________________________________________________________________________________________________________________
 
-## Previous Version (02-04-2015) ##
+## Update (02-04-2015) ##
 
 Survey123 (Build 1.0.79)  
 Survey123 Connect (Build 1.0.60)
@@ -156,7 +156,7 @@ Survey123 Connect (Build 1.0.60)
 ___________________________________________________________________________________________________________________
 
 
-## Previous Version (31-03-2015) ##
+## Update (31-03-2015) ##
 
 Survey123 (Build 1.0.64)  
 Survey123 Connect (Build 1.0.60)
@@ -176,7 +176,7 @@ Survey123 Connect (Build 1.0.60)
 
 ___________________________________________________________________________________________________________________
 
-## Previous Version (27-03-2015) ##
+## Update (27-03-2015) ##
 
 Survey123 (Build 1.0.61)
 
@@ -196,7 +196,7 @@ Survey123 Connect (Build 1.0.59)
 
 ___________________________________________________________________________________________________________________
 
-## Previous Version (19-03-2015) ##
+## Update (19-03-2015) ##
 
 Survey123 (Build 1.0.52)  
 Survey123 Connect (Build 1.0.41)
@@ -208,7 +208,7 @@ Survey123 Connect (Build 1.0.41)
 
 ___________________________________________________________________________________________________________________
 
-## Previous Version (27-02-2015) ##
+## Update (27-02-2015) ##
 
 Survey123 (Build 0.0.42)
 
