@@ -23,17 +23,17 @@ Survey123 Connect (Build 1.0.143)
 Important update with fixes and new features.
 
 FIXES:
--Related to https-only ArcGIS organizations
---https://github.com/Esri/Survey123Community/issues/131
---https://github.com/Esri/Survey123Community/issues/58
--Some to better handle logged in users with insufficient permissions
---https://github.com/Esri/Survey123Community/issues/105
---https://github.com/Esri/Survey123Community/issues/132
--Read-only questions are no longer pushed down to the geodatabase as read-only fields
---https://github.com/Esri/Survey123Community/issues/122
---https://github.com/Esri/Survey123Community/issues/80
--Feature services with Z enabled can't be edited in ArcGIS Online or Portal for ArcGIS
---https://github.com/Esri/Survey123Community/issues/111
+- Related to https-only ArcGIS organizations
+-- https://github.com/Esri/Survey123Community/issues/131
+-- https://github.com/Esri/Survey123Community/issues/58
+- Some to better handle logged in users with insufficient permissions
+-- https://github.com/Esri/Survey123Community/issues/105
+-- https://github.com/Esri/Survey123Community/issues/132
+- Read-only questions are no longer pushed down to the geodatabase as read-only fields
+-- https://github.com/Esri/Survey123Community/issues/122
+-- https://github.com/Esri/Survey123Community/issues/80
+- Feature services with Z enabled can't be edited in ArcGIS Online or Portal for ArcGIS
+-- https://github.com/Esri/Survey123Community/issues/111
 
 NEW FEATURES:
 -Add a 'start' question type and your survey feature service will be time-enabled (blog post coming soon)
