@@ -8,8 +8,6 @@ To get started navigate to http://survey123.esri.com and login with your ArcGIS 
 
 2) Get the Facts from the field: Share your Surveys with people in your organization. Ask folks in the field to download the Survey123 app and the Survey/s shared with them. The app is available in the google play and apple app stores. There are also downloads available for Windows and Macs.
 
-[Download Survey123 App](https://survey123forarcgis.wordpress.com/2015/04/28/installing-the-survey123-for-arcgis-app/)
-  
 3) Make better decisions: As people submit data from the field, you will be able to analyze it in Survey123.esri.com or with any ArcGIS tools.
 
 Some more tips available at [our blog](https://survey123forarcgis.wordpress.com/2015/04/28/installing-the-survey123-for-arcgis-app/): 
@@ -30,13 +28,16 @@ FIXES:
 - https://github.com/Esri/Survey123Community/issues/111
 
 NEW FEATURES:
-- Add a 'start' question type and your survey feature service will be time-enabled (blog post coming soon)
-- You can now define the exact mapping of your question to esri field types (blog post coming soon)
+- You can now define the exact mapping of your question to esri field types. More details in this [blog post](https://geonet.esri.com/groups/survey123/blog/2015/08/24/xlsform-mappings-to-arcgis-feature-services-an-introduction)
 - Enhanced XLSForm support
   - username: this question type will automatically capture the name of the person logged in to the Survey123 app. It is similar to what you get with Editor Tracking... but it is handy to have this one when working with ArcGIS Server secured services used through a proxy with embedded credentials.
   - email: similar to username, but captures the email associated with the person logged in (as obtained from the ArcGIS profile)
+  - start and end are two new types of XLSForm question types that we now support. They capture the time when the user opens the form (start) and when the form is flagged as ready to be submitted (end). These two questions are useful to better understand when the data is captured and how much time people are spending on every form submission. 
+  - A bit more about these new questions is discussed in [this blog post](https://geonet.esri.com/groups/survey123/blog/2015/08/24/keeping-track-of-when-where-and-by-whom-data-is-captured)
+
   - hidden: this new type of question is useful when you want to use Connect to add additional fields into your feature service, but you do not want these fields to show in the Survey. You will typically use this type of question in combination with the columns bind::esri:fieldType and bind::esri:fieldLength which we will also describe in a blog post. (Will also provide more details in a blog post).
-  - signature: The signature appearance in image fields allows you to capture signatures from respondents.
+  - 
+  - signature: The [signature appearance](https://geonet.esri.com/groups/survey123/blog/2015/08/23/signatures) in image fields allows you to capture signatures from respondents.
 
 ___________________________________________________________________________________________________________________
 
