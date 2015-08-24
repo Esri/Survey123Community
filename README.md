@@ -14,7 +14,16 @@ Some more tips available at [our blog](https://geonet.esri.com/groups/survey123/
 
 ___________________________________________________________________________________________________________________
 
-## Survey123 Connect Update (30-07-2015) ##
+## Update (30-07-2015) ##
+
+Survey123 app (Build 1.0.171)  
+
+FIXES:
+- https://github.com/Esri/Survey123Community/issues/126
+- https://github.com/Esri/Survey123Community/issues/111
+- https://github.com/Esri/Survey123Community/issues/130
+NEW FEATURES:
+- https://github.com/Esri/Survey123Community/issues/42
 
 Survey123 Connect (Build 1.0.143)  
 
