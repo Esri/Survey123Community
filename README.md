@@ -49,7 +49,7 @@ NEW FEATURES:
 
 ___________________________________________________________________________________________________________________
 
-## Survey123 Connect Update (30-06-2015) ##
+## Survey123 Connect Update (30-06-2015) ## Tartan Day Milestone
 
 Survey123 Connect (Build 1.0.118)  
 
@@ -57,7 +57,7 @@ This minor update addresses the form conversion errors described [in this thread
 If you ever run into these issues before, after installing the update please select the settings icon next to the version number of Survey123 Connect in the bottom-left corner. The Survey123 REST API URL should be set to https://survey123.esri.com/api. If not, delete the current entry, then close and open Survey123 Connect to get the new default setting. 
 ___________________________________________________________________________________________________________________
 
-## Update (29-05-2015) ##
+## Update (29-05-2015) ## Children's Day Milestone
 
 Survey123 (Build 1.0.144)  
 - UI scaling improvements.
@@ -111,7 +111,7 @@ Survey123 Connect (Build 1.0.81)
 
 ___________________________________________________________________________________________________________________
 
-## Update (01-05-2015) ##
+## Update (01-05-2015) ## May Day Milestone
 
 Survey123 (Build 1.0.88)  
 - Select Basemap in GeoPoint Control
@@ -134,7 +134,7 @@ Other
 
 ___________________________________________________________________________________________________________________
 
-## Update (01-04-2015) ##
+## Update (01-04-2015) ## Fools day Milestone
 
 Survey123 (Build 1.0.83)  
 Survey123 Connect (Build 1.0.65)
