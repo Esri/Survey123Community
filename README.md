@@ -14,7 +14,7 @@ Some more tips available at [our blog](https://geonet.esri.com/groups/survey123/
 
 ___________________________________________________________________________________________________________________
 
-## Update (30-07-2015) ## International Beer Day Milestone
+## Update (31-08-2015) ## Random Acts of Kindness Day
 
 Survey123 Connect (Build 1.0.158)  
 
@@ -24,6 +24,9 @@ FIXES:
 - https://github.com/Esri/Survey123Community/issues/139 (You can now create surveys using special characters in the name)  
 - https://github.com/Esri/Survey123Community/issues/135 (Fewer Windows privileges needed to run Connect installer) Check!
 
+Survey123 app
+
+All new features planned for this milestone have been pushed into the next (National Bison Day on October 1, 2015). This includes: Cascaded Selects, Windows Phone 8 and 8.1 support.  Support for XLSForm Repeats continues to be planned for the October 1st update.
 ___________________________________________________________________________________________________________________
 
 ## Update (30-07-2015) ## International Beer Day Milestone
