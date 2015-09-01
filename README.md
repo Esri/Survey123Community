@@ -16,6 +16,18 @@ ________________________________________________________________________________
 
 ## Update (30-07-2015) ## International Beer Day Milestone
 
+Survey123 Connect (Build 1.0.158)  
+
+FIXES:
+- https://github.com/Esri/Survey123Community/issues/158 (You can now run Survey123 Connect in Windows 10)
+- https://github.com/Esri/Survey123Community/issues/143 (Solved issues using Survey123 Connect through proxy servers, causing XLSForm Conversion Failed errors)
+- https://github.com/Esri/Survey123Community/issues/139 (You can now create surveys using special characters in the name)  
+- https://github.com/Esri/Survey123Community/issues/135 (Fewer Windows privileges needed to run Connect installer) Check!
+
+___________________________________________________________________________________________________________________
+
+## Update (30-07-2015) ## International Beer Day Milestone
+
 Survey123 app (Build 1.0.171)  
 
 FIXES:
