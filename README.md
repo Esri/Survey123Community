@@ -29,6 +29,7 @@ All new features planned for this milestone have been pushed into the next (Nati
 
 KNOWN ISSUE:
 - Relevant expressions are not being honoured in the form preview in Survey123 Connect. Relevant expressions are still honoured as expected in the Survey 123 app.
+
 ___________________________________________________________________________________________________________________
 
 ## Update (30-07-2015) ## International Beer Day Milestone
