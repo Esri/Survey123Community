@@ -23,10 +23,12 @@ FIXES:
 - https://github.com/Esri/Survey123Community/issues/143 (Solved issues using Survey123 Connect through proxy servers, causing XLSForm Conversion Failed errors)
 - https://github.com/Esri/Survey123Community/issues/139 (You can now create surveys using special characters in the name)  
 
-
 Survey123 app
 
 All new features planned for this milestone have been pushed into the next (National Bison Day on October 1, 2015). This includes: Cascaded Selects, Windows Phone 8 and 8.1 support.  Support for XLSForm Repeats continues to be planned for the October 1st update.
+
+KNOWN ISSUE:
+- Relevant expressions are not being honoured in the form preview in Survey123 Connect. Relevant expressions are still honoured as expected in the Survey 123 app.
 ___________________________________________________________________________________________________________________
 
 ## Update (30-07-2015) ## International Beer Day Milestone
