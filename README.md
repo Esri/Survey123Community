@@ -12,7 +12,6 @@ To get started navigate to http://survey123.esri.com and login with your ArcGIS 
 
 Some more tips available at [our blog](https://geonet.esri.com/groups/survey123/blog): 
 
-#167
 ___________________________________________________________________________________________________________________
 
 ## Update (08-09-2015) ## Hotfix
