@@ -26,6 +26,7 @@ NEW FEATURES:
 - This update includes a first implementation of Cascading Selects and Repeats. 
 - To test Cascading selects and repeats in the app it is necessary to install the beta version from HockeyApp (requests to join beta program must be sent to survey123@esri.com).
 - Support for cascading selects and repeats is planned to be made available in October 1st update.
+
 ___________________________________________________________________________________________________________________
 
 ## Update (31-08-2015) ## Random Acts of Kindness Day
