@@ -12,6 +12,21 @@ To get started navigate to http://survey123.esri.com and login with your ArcGIS 
 
 Some more tips available at [our blog](https://geonet.esri.com/groups/survey123/blog): 
 
+#167
+___________________________________________________________________________________________________________________
+
+## Update (08-09-2015) ## Hotfix
+
+Survey123 Connect (Build 1.1.4)  
+
+FIXES:
+- https://github.com/Esri/Survey123Community/issues/167 (Relevant expressions no longer working in Connect 1.0.158)
+- https://github.com/Esri/Survey123Community/issues/166 (Required not working on Signature questions. Note: Fix to the app planned for October 1st release) 
+- 
+NEW FEATURES:
+- This update includes a first implementation of Cascading Selects and Repeats. 
+- To test Cascading selects and repeats in the app it is necessary to install the beta version from HockeyApp (requests to join beta program must be sent to survey123@esri.com).
+- Support for cascading selects and repeats is planned to be made available in October 1st update.
 ___________________________________________________________________________________________________________________
 
 ## Update (31-08-2015) ## Random Acts of Kindness Day
@@ -28,7 +43,7 @@ Survey123 app
 All new features planned for this milestone have been pushed into the next (National Bison Day on October 1, 2015). This includes: Cascaded Selects, Windows Phone 8 and 8.1 support.  Support for XLSForm Repeats continues to be planned for the October 1st update.
 
 KNOWN ISSUE:
-- Relevant expressions are not being honoured in the form preview in Survey123 Connect. Relevant expressions are still honoured as expected in the Survey 123 app.
+- Relevant expressions are not being honoured in the form preview in Survey123 Connect. Relevant expressions are still honoured as expected in the Survey 123 app. Note: This issue is fixed in Connect 1.1.4 (see update 08-09-2015)
 
 ___________________________________________________________________________________________________________________
 
