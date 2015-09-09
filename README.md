@@ -21,7 +21,7 @@ Survey123 Connect (Build 1.1.4)
 FIXES:
 - https://github.com/Esri/Survey123Community/issues/167 (Relevant expressions no longer working in Connect 1.0.158)
 - https://github.com/Esri/Survey123Community/issues/166 (Required not working on Signature questions. Note: Fix to the app planned for October 1st release) 
-- 
+
 NEW FEATURES:
 - This update includes a first implementation of Cascading Selects and Repeats. 
 - To test Cascading selects and repeats in the app it is necessary to install the beta version from HockeyApp (requests to join beta program must be sent to survey123@esri.com).
