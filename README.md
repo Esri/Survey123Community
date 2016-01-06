@@ -14,6 +14,18 @@ Some more tips available at [our blog](https://geonet.esri.com/groups/survey123/
 
 ___________________________________________________________________________________________________________________
 
+## Update (01-06-2016) ## 
+
+Survey123 Field App (Build 1.2.19)  Three Wise Men Day
+
+NEW FEATURES
+- https://github.com/Esri/Survey123Community/issues/127 (Enable copy-paste on sign-in dialog)
+- https://github.com/Esri/Survey123Community/issues/114 (Support offline basemaps)
+- https://github.com/Esri/Survey123Community/issues/70  (Support offline basemaps)
+
+
+___________________________________________________________________________________________________________________
+
 ## Update (08-09-2015) ## Hotfix
 
 Survey123 Connect (Build 1.1.4)  
