@@ -14,6 +14,19 @@ Some more tips available at [our blog](https://geonet.esri.com/groups/survey123/
 
 ___________________________________________________________________________________________________________________
 
+___________________________________________________________________________________________________________________
+
+## Update (02-02-2016) ## 
+
+Survey123 Field App (Build 1.2.49)  Valentine's Day
+
+Fixes
+- https://github.com/Esri/Survey123Community/issues/234 (Boost Survey Loading Time)
+- https://github.com/Esri/Survey123Community/issues/277 (Preview Map iOS only)
+
+
+___________________________________________________________________________________________________________________
+
 ## Update (01-06-2016) ## 
 
 Survey123 Field App (Build 1.2.19)  Three Wise Men Day
