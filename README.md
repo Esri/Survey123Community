@@ -16,6 +16,22 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________
 
+## Update (09-03-2016) ## 
+
+Survey123 Field App (Build 1.2.89)  International Women's Day (Hot Fix)
+
+Fixes
+- https://geonet.esri.com/groups/survey123/blog/2016/03/09/1289-critical-update-to-the-survey123-mobile-app
+___________________________________________________________________________________________________________________
+
+## Update (03-03-2016) ## 
+
+Survey123 Field App (Build 1.2.82)  International Women's Day
+
+Fixes
+- https://geonet.esri.com/groups/survey123/blog/2016/03/04/international-women-s-day-release
+___________________________________________________________________________________________________________________
+
 ## Update (02-02-2016) ## 
 
 Survey123 Field App (Build 1.2.49)  Valentine's Day
