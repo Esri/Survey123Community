@@ -12,8 +12,12 @@ To get started navigate to http://survey123.esri.com and login with your ArcGIS 
 
 Some more tips available at [our blog](https://geonet.esri.com/groups/survey123/blog): 
 
-___________________________________________________________________________________________________________________
+## Update (11-04-2016) ## 
 
+Survey123 Field App (Build 1.3.38) Survey123 Connect (Build 1.3.18) International Children's Book Day 
+
+Fixes
+- https://github.com/Esri/Survey123Community/issues?utf8=%E2%9C%93&q=milestone%3A%22International+Children%27s+Book+Day+%28April+2%29%22+
 ___________________________________________________________________________________________________________________
 
 ## Update (09-03-2016) ## 
