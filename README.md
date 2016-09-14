@@ -1,6 +1,9 @@
+
+While the Survey123 team still looks from time to time to this Github repo, we have moved into the [Survey123 GeoNet Group](https://geonet.esri.com/groups/survey123).
+
 # Basics #
 
-Video Tutorial on Survey123 available here: https://youtu.be/0gGQbCuPRQI
+Video Tutorials on Survey123 available here: https://links.esri.com/survey123/videos/overview 
 
 To get started navigate to http://survey123.esri.com and login with your ArcGIS Online credentials
 
