@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:esri="http://esri.com/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:orx="http://openrosa.org/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head>
+    <h:title>Media</h:title>
+    <model>
+      <itext>
+        <translation default="true()" lang="default">
+          <text id="/Media/bird/sparrow:label">
+            <value form="image">jr://images/sparrow.png</value>
+            <value form="audio">jr://audio/field-sparrow.mp3</value>
+            <value>Sparrow</value>
+          </text>
+          <text id="/Media/bird/tit:label">
+            <value form="image">jr://images/tit.png</value>
+            <value form="audio">jr://audio/bush-tit.mp3</value>
+            <value>Tit</value>
+          </text>
+          <text id="/Media/bird/wren:label">
+            <value form="image">jr://images/wren.png</value>
+            <value form="audio">jr://audio/house-wren.mp3</value>
+            <value>Wren</value>
+          </text>
+          <text id="/Media/bird/kingfisher:label">
+            <value form="image">jr://images/kingfisher.png</value>
+            <value form="audio">jr://audio/belted-kingfisher.mp3</value>
+            <value>Kingfisher</value>
+          </text>
+          <text id="/Media/bird/woodpecker:label">
+            <value form="image">jr://images/woodpecker.png</value>
+            <value form="audio">jr://audio/hairy-woodpecker.mp3</value>
+            <value>Woodpecker</value>
+          </text>
+          <text id="/Media/bird/eagle:label">
+            <value form="image">jr://images/eagle.png</value>
+            <value form="audio">jr://audio/goldeneagle.mp3</value>
+            <value>Eagle</value>
+          </text>
+          <text id="/Media/bird/robin:label">
+            <value form="image">jr://images/robin.png</value>
+            <value form="audio">jr://audio/european-robin.mp3</value>
+            <value>Robin</value>
+          </text>
+          <text id="/Media/bird/crow:label">
+            <value form="image">jr://images/crow.png</value>
+            <value form="audio">jr://audio/carrioncrow.mp3</value>
+            <value>Crow</value>
+          </text>
+          <text id="/Media/bird:label">
+            <value form="audio">jr://audio/question.wav</value>
+            <value>What bird can you see near you?</value>
+          </text>
+        </translation>
+      </itext>
+      <instance>
+        <Media id="myform">
+          <bird/>
+          <explanation/>
+          <meta>
+            <instanceID/>
+          </meta>
+        </Media>
+      </instance>
+      <bind nodeset="/Media/bird" type="select1"/>
+      <bind nodeset="/Media/explanation" readonly="true()" type="string"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/Media/meta/instanceID" readonly="true()" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <select1 ref="/Media/bird">
+      <label ref="jr:itext('/Media/bird:label')"/>
+      <item>
+        <label ref="jr:itext('/Media/bird/crow:label')"/>
+        <value>crow</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/Media/bird/eagle:label')"/>
+        <value>eagle</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/Media/bird/kingfisher:label')"/>
+        <value>kingfisher</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/Media/bird/robin:label')"/>
+        <value>robin</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/Media/bird/sparrow:label')"/>
+        <value>sparrow</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/Media/bird/tit:label')"/>
+        <value>tit</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/Media/bird/woodpecker:label')"/>
+        <value>woodpecker</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/Media/bird/wren:label')"/>
+        <value>wren</value>
+      </item>
+    </select1>
+    <input ref="/Media/explanation">
+      <label>Click the audio button on the right to hear the sound of each bird.</label>
+    </input>
+  </h:body>
+</h:html>
