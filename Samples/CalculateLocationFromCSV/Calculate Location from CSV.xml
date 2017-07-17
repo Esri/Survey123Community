@@ -16,13 +16,12 @@
           </meta>
         </Calculate_Location_from_CSV>
       </instance>
-      <instance id=" " src="jr://file-csv/ .csv"/>
       <instance id="Intersections" src="jr://file-csv/Intersections.csv"/>
       <bind nodeset="/Calculate_Location_from_CSV/intersection" type="select1"/>
-      <bind calculate="pulldata('Intersections', 'Lat', 'IntersectionID',  /Calculate_Location_from_CSV/intersection ) + &quot; &quot; + pulldata('Intersections', 'Long', 'IntersectionID',  /Calculate_Location_from_CSV/intersection )" nodeset="/Calculate_Location_from_CSV/locationCalculation" type="string"/>
+      <bind calculate="concat(number(pulldata('Intersections', 'Lat', 'IntersectionID',  /Calculate_Location_from_CSV/intersection )),' ', number(pulldata('Intersections', 'Long', 'IntersectionID',  /Calculate_Location_from_CSV/intersection )))" nodeset="/Calculate_Location_from_CSV/locationCalculation" type="string"/>
       <bind calculate="pulldata('Intersections', 'Street1', 'IntersectionID',  /Calculate_Location_from_CSV/intersection )" nodeset="/Calculate_Location_from_CSV/street1Calculation" type="string"/>
       <bind calculate="pulldata('Intersections', 'Street2', 'IntersectionID',  /Calculate_Location_from_CSV/intersection )" nodeset="/Calculate_Location_from_CSV/street2Calculation" type="string"/>
-      <bind calculate="&quot;This intersection is where &quot; +  /Calculate_Location_from_CSV/street1Calculation  + &quot; meets &quot; +  /Calculate_Location_from_CSV/street2Calculation " nodeset="/Calculate_Location_from_CSV/generated_note_name_6" readonly="true()" type="string"/>
+      <bind calculate="concat('This intersection is where ', /Calculate_Location_from_CSV/street1Calculation ,' meets ', /Calculate_Location_from_CSV/street2Calculation )" nodeset="/Calculate_Location_from_CSV/generated_note_name_6" readonly="true()" type="string"/>
       <bind calculate=" /Calculate_Location_from_CSV/locationCalculation " nodeset="/Calculate_Location_from_CSV/location" type="geopoint"/>
       <bind calculate="concat('uuid:', uuid())" nodeset="/Calculate_Location_from_CSV/meta/instanceID" readonly="true()" type="string"/>
     </model>
