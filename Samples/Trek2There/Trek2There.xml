@@ -1,46 +1,46 @@
 <?xml version="1.0"?>
 <h:html xmlns="http://www.w3.org/2002/xforms" xmlns:esri="http://esri.com/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:orx="http://openrosa.org/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <h:head>
-    <h:title>Trek2There Test</h:title>
+    <h:title>Trek2There</h:title>
     <model>
       <instance>
-        <Esri_Offices id="myform">
-          <Note0/>
-          <Note01/>
-          <Note02/>
-          <Country/>
-          <Lat/>
-          <Lon/>
-          <Note1/>
-          <Note2/>
+        <Trek2There id="Trek2There">
+          <note0/>
+          <note01/>
+          <note02/>
+          <country/>
+          <lat/>
+          <lon/>
+          <note1/>
+          <note2/>
           <meta>
             <instanceID/>
           </meta>
-        </Esri_Offices>
+        </Trek2There>
       </instance>
       <instance id="EsriDistributors" src="jr://file-csv/EsriDistributors.csv"/>
-      <bind nodeset="/Esri_Offices/Note0" readonly="true()" type="string"/>
-      <bind nodeset="/Esri_Offices/Note01" readonly="true()" type="string"/>
-      <bind nodeset="/Esri_Offices/Note02" readonly="true()" type="string"/>
-      <bind nodeset="/Esri_Offices/Country" type="select1"/>
-      <bind calculate="pulldata('EsriDistributors','Lat','Country', /Esri_Offices/Country )" nodeset="/Esri_Offices/Lat" type="string"/>
-      <bind calculate="pulldata('EsriDistributors','Lon','Country', /Esri_Offices/Country )" nodeset="/Esri_Offices/Lon" type="string"/>
-      <bind calculate="concat('&lt;a href=&quot;arcgis-trek2there://?stop=', /Esri_Offices/Lat ,',', /Esri_Offices/Lon ,'&quot;&gt;Launch Smart Compass&lt;/a&gt;')" nodeset="/Esri_Offices/Note1" readonly="true()" type="string"/>
-      <bind nodeset="/Esri_Offices/Note2" readonly="true()" type="string"/>
-      <bind calculate="concat('uuid:', uuid())" nodeset="/Esri_Offices/meta/instanceID" readonly="true()" type="string"/>
+      <bind nodeset="/Trek2There/note0" readonly="true()" type="string"/>
+      <bind nodeset="/Trek2There/note01" readonly="true()" type="string"/>
+      <bind nodeset="/Trek2There/note02" readonly="true()" type="string"/>
+      <bind nodeset="/Trek2There/country" type="select1"/>
+      <bind calculate="pulldata('EsriDistributors','Lat','Country', /Trek2There/country )" nodeset="/Trek2There/lat" type="string"/>
+      <bind calculate="pulldata('EsriDistributors','Lon','Country', /Trek2There/country )" nodeset="/Trek2There/lon" type="string"/>
+      <bind calculate="concat('&lt;a href=&quot;arcgis-trek2there://?stop=', /Trek2There/lat ,',', /Trek2There/lon ,'&quot;&gt;Launch Smart Compass&lt;/a&gt;')" nodeset="/Trek2There/note1" readonly="true()" type="string"/>
+      <bind nodeset="/Trek2There/note2" readonly="true()" type="string"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/Trek2There/meta/instanceID" readonly="true()" type="string"/>
     </model>
   </h:head>
   <h:body>
-    <input ref="/Esri_Offices/Note0">
+    <input ref="/Trek2There/note0">
       <label>&lt;font size='1'&gt;This sample survey shows how to integrate Survey123 with &lt;a href='https://marketplace.arcgis.com/listing.html?id=a1a3caec68694eaf8b6e0c25f0657275'&gt;Trek2There&lt;/a&gt;&lt;/font&gt;</label>
     </input>
-    <input ref="/Esri_Offices/Note01">
+    <input ref="/Trek2There/note01">
       <label>&lt;font size='1'&gt;Trek2There is a smart compass mobile app for straight-line navigation. It is useful in places where you cannot get directions to places&lt;/font&gt;</label>
     </input>
-    <input ref="/Esri_Offices/Note02">
+    <input ref="/Trek2There/note02">
       <label>&lt;font size='1'&gt;You must install Trek2There first before trying this sample&lt;/font&gt;</label>
     </input>
-    <select1 appearance="autocomplete" ref="/Esri_Offices/Country">
+    <select1 appearance="autocomplete" ref="/Trek2There/country">
       <label>Select a country</label>
       <hint>List shows all countries with Esri presence</hint>
       <item>
@@ -992,10 +992,10 @@
         <value>Finland</value>
       </item>
     </select1>
-    <input ref="/Esri_Offices/Note1">
+    <input ref="/Trek2There/note1">
       <label>&lt;font size='1'&gt;Using the link below Survey123 will launch Trek2There passing the coordinates of the Esri office in the country you selected&lt;/font&gt;</label>
     </input>
-    <input ref="/Esri_Offices/Note2">
+    <input ref="/Trek2There/note2">
       <label>&lt;font size='1'&gt;You must be outside and walk/drive for the compass to start working&lt;/font&gt;</label>
     </input>
   </h:body>

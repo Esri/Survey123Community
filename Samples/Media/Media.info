@@ -28,9 +28,14 @@
     "imagesInfo": {
         "captureResolution": 640
     },
+    "queryInfo": {
+        "applySpatialFilter": true,
+        "mode": "",
+        "where": ""
+    },
     "serviceInfo": {
-        "itemId": "331c039b7b1344d0b944e4846e561c3f",
+        "itemId": "a2e7aee52e8844fe87ea1fd390548cfd",
         "type": "Feature Service",
-        "url": "http://services5.arcgis.com/jMCHJcLe13FaKCFB/arcgis/rest/services/service_a16ec978dca4436bb49d35bd74b0246d/FeatureServer"
+        "url": "https://services5.arcgis.com/jMCHJcLe13FaKCFB/arcgis/rest/services/service_e4337b30b9a94c3b8db0ff1d4f92e48b/FeatureServer"
     }
 }
