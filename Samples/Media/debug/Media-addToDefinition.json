@@ -131,6 +131,15 @@
             "hasZ": false,
             "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
             "id": 0,
+            "indexes": [
+                {
+                    "description": "GlobalID index",
+                    "fields": "globalid",
+                    "isAscending": false,
+                    "isUnique": true,
+                    "name": "GlobalIDIndex"
+                }
+            ],
             "isDataVersioned": false,
             "maxRecordCount": 1000,
             "maxScale": 0,
